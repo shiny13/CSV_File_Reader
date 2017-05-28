@@ -1,0 +1,9 @@
+C:\Users\shahnawaz\Documents\Visual Studio 2017\Projects\ERM_TestTask\ERM_TestTask\bin\Debug\ERM_TestTask.exe.config
+C:\Users\shahnawaz\Documents\Visual Studio 2017\Projects\ERM_TestTask\ERM_TestTask\bin\Debug\ERM_TestTask.exe
+C:\Users\shahnawaz\Documents\Visual Studio 2017\Projects\ERM_TestTask\ERM_TestTask\bin\Debug\ERM_TestTask.pdb
+C:\Users\shahnawaz\Documents\Visual Studio 2017\Projects\ERM_TestTask\ERM_TestTask\obj\Debug\ERM_TestTask.csprojResolveAssemblyReference.cache
+C:\Users\shahnawaz\Documents\Visual Studio 2017\Projects\ERM_TestTask\ERM_TestTask\obj\Debug\ERM_TestTask.exe
+C:\Users\shahnawaz\Documents\Visual Studio 2017\Projects\ERM_TestTask\ERM_TestTask\obj\Debug\ERM_TestTask.pdb
+C:\Users\shahnawaz\Documents\Visual Studio 2017\Projects\ERM_TestTask\ERM_TestTask\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\shahnawaz\Documents\Visual Studio 2017\Projects\ERM_TestTask\ERM_TestTask\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\shahnawaz\Documents\Visual Studio 2017\Projects\ERM_TestTask\ERM_TestTask\bin\Debug\LumenWorks.Framework.IO.xml
